@@ -1,0 +1,22 @@
+{
+  "name": "sparkle-api-auth",
+  "version": "1.0.0",
+  "description": "Sparkle API Auth",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kawin-impekable/sparkle-api-auth.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kawin-impekable/sparkle-api-auth/issues"
+  },
+  "homepage": "https://github.com/kawin-impekable/sparkle-api-auth#readme",
+  "dependencies": {
+    "oauth2-server": "^3.0.0"
+  }
+}
